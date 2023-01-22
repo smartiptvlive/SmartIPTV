@@ -7,7 +7,7 @@ IPTV est l’abréviation de “Télévision par Protocole Internet”. Il s’a
 
 <h2>Quelques avantages d’un Abonnement IPTV :</h2>
 
-<h3>Nos <a href="https://smartiptv.live">Abonnement IPTV PREMIUM </a> proposent plusieurs avantages:</h3>
+<h3>Nos <a href="https://smartiptv.live" >Abonnement IPTV PREMIUM </a> proposent plusieurs avantages:</h3>
 
 Interactivité : un abonnement Smart IPTV Pro permet aux utilisateurs de chercher leurs programmes préférés en fonction du titre du programme, du nom et de l’heure du match de sport, et même du nom des acteurs. Ainsi, ils peuvent gagner du temps en regardant des émissions spécifiques à une heure donnée et ne jamais manquer leurs programmes préférés.
 Flexibilité : un Abonnement Smart IPTV PREMIUM peut être utilisé n’importe où et sur n’importe quel appareil avec une simple connexion internet.
